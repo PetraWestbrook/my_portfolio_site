@@ -5,12 +5,29 @@ body {
     text-align: center;
 }
 
+.name {
+    color: lightcyan;
+    background-color: rgba(17, 134, 140, 0.9);
+    border-style: outset;
+    border-color: rgba(17, 134, 140, 0.9);
+    border-radius: 20px;
+    margin: 0% 35%;
+    padding: 1% 5%;
+}
+
 article {
-    background-color: rgba(17, 134, 140, 0.8);
+    background-color: rgba(17, 134, 140, 0.9);
     margin: 25px 200px 25px 200px;
-    padding: 0 200px 0 200px;
+    padding: 0% 5%;
 }
 
 article {
     color: lightcyan;
+    border-style: outset;
+    border-color: rgba(17, 134, 140, .9);
+    border-radius: 20px;
+}
+
+footer {
+    color: lightgray;
 }
