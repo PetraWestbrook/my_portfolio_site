@@ -1,7 +1,16 @@
 body {
+    background-image: url("https://images.pexels.com/photos/1498964/pexels-photo-1498964.jpeg?cs=srgb&dl=coffee-communication-compose-1498964.jpg&fm=jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
     text-align: center;
 }
 
-.work-experience h3 {
-    color: blueviolet;
+article {
+    background-color: rgba(17, 134, 140, 0.8);
+    margin: 25px 200px 25px 200px;
+    padding: 0 200px 0 200px;
+}
+
+article {
+    color: lightcyan;
 }
