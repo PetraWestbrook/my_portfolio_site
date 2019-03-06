@@ -11,8 +11,16 @@ body {
     border-style: outset;
     border-color: rgba(17, 134, 140, 0.9);
     border-radius: 20px;
-    margin: 0% 35%;
+    margin: 5% 35% 0 35%;
     padding: 1% 5%;
+}
+
+.work-experience h3, h4{
+    margin: 0;
+}
+
+.work-experience p{
+    margin-top: 0;
 }
 
 article {
