@@ -27,9 +27,6 @@ article {
     background-color: rgba(17, 134, 140, 0.9);
     margin: 25px 200px 25px 200px;
     padding: 0% 5%;
-}
-
-article {
     color: lightcyan;
     border-style: outset;
     border-color: rgba(17, 134, 140, .9);
