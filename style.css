@@ -36,6 +36,13 @@ article {
     border-radius: 20px;
 }
 
-footer {
-    color: lightgray;
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: navy;
+    padding: 5px;
+    color: darkgrey;
+    width: 100%
 }
