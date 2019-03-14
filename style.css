@@ -39,17 +39,7 @@ body {
     grid-auto-rows: auto;
 }
 
-.about-me {
-    background-color: rgba(17, 134, 140, 0.9);
-    margin: 1vw 10vw 3vw 10vw;
-    padding: 0% 5%;
-    color: lightcyan;
-    border-style: outset;
-    border-color: rgba(17, 134, 140, .9);
-    border-radius: 20px;
-}
-
-.work-experience {
+.about-me, .work-experience, .goals {
     background-color: rgba(17, 134, 140, 0.9);
     margin: 1vw 10vw 3vw 10vw;
     padding: 0% 5%;
@@ -65,16 +55,6 @@ body {
 
 .work-experience h3, h4{
     margin: 0;
-}
-
-.goals {
-    background-color: rgba(17, 134, 140, 0.9);
-    margin: 1vw 10vw 3vw 10vw;
-    padding: 0% 5%;
-    color: lightcyan;
-    border-style: outset;
-    border-color: rgba(17, 134, 140, .9);
-    border-radius: 20px;
 }
 
 .footer {
